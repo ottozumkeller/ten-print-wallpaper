@@ -1,0 +1,23 @@
+* {
+    background:#000;
+    text-align:center;
+    margin:0;
+    overflow:hidden;
+}
+body {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    color:#fff;
+}
+main {
+    line-break:anywhere;
+    width:1ch;
+    height:100vh;
+}
+p {
+    position:absolute;
+    padding:calc(1lh + 0.25px) 0;
+    width:12ch;
+}

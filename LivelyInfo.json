@@ -1,0 +1,16 @@
+{
+    "AppVersion": "1.0.0.0",
+    "Title": "Print Pattern",
+    "Thumbnail": "thumbnail.jpg",
+    "Preview": "preview.gif",
+    "Desc": "Classic 10PRINT animation",
+    "Author": "Otto Zumkeller",
+    "License": "MIT",
+    "Contact": null,
+    "Type": 1,
+    "FileName": "index.html",
+    "IsAbsolutePath": false,
+    "Id": null,
+    "Tags": null,
+    "Version": 0
+  }
