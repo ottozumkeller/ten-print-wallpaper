@@ -1,1 +1,1 @@
-A classic 10PRINT animation as wallpaper for Lively
+![](https://github.com/ottozumkeller/ten-print-wallpaper/blob/main/preview.gif)
